@@ -1,0 +1,103 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "PhiCollectionContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "PhiCollectionAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Bin]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BinSlot]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Collection]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Location]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Request]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Staff]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Truck]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Waste]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Admin]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[CollectionLog]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[ControlStation]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[Driver]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[GardenSite]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[Landfill]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[Supervisor]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[spCollectionLogsFrom]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[spLandfillSpaceLeft]",
+         "ObjectType": 2
+      }
+   ],
+   "UiHint": "epsilonserver1.phicollectiondb",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
